@@ -4,7 +4,7 @@ A visual CSS editor for creating and editing styles through a graphical interfac
 
 ![Interface](screenshots/english.png)
 
-**[Русский](README_RU.md)** | **English**
+**English** | **[Русский](README_RU.md)**
 
 ## Installation
 
