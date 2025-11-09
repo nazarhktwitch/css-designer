@@ -1,6 +1,9 @@
+<!-- markdownlint-disable MD033 -->
 # CSS Designer
 
 A visual CSS editor for creating and editing styles through a graphical interface, similar to Qt Designer, but for web styles.
+
+<img src="screenshots/english.png" alt="Interface" width="60%">
 
 **[Русский](README_RU.md)** | **English**
 
